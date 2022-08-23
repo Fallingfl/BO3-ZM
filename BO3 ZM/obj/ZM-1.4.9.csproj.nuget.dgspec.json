@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\bo3\\BO3 ZM\\ZM-1.4.9.csproj": {}
+  },
+  "projects": {
+    "E:\\bo3\\BO3 ZM\\ZM-1.4.9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\bo3\\BO3 ZM\\ZM-1.4.9.csproj",
+        "projectName": "BO3僵尸修改器",
+        "projectPath": "E:\\bo3\\BO3 ZM\\ZM-1.4.9.csproj",
+        "packagesPath": "C:\\Users\\29644\\.nuget\\packages\\",
+        "outputPath": "E:\\bo3\\BO3 ZM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\29644\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

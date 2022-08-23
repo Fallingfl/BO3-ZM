@@ -1,0 +1,24 @@
+C:\Users\29644\Desktop\BO3 ZM\bin\Debug\net462\Title Update 30.exe.config
+C:\Users\29644\Desktop\BO3 ZM\bin\Debug\net462\Title Update 30.exe
+C:\Users\29644\Desktop\BO3 ZM\bin\Debug\net462\Title Update 30.pdb
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\ZM-1.4.9.csproj.AssemblyReference.cache
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\ZM-1.4.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\TitleUpdate.Properties.Resources.resources
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\zm.Form1.resources
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\ZM-1.4.9.csproj.GenerateResource.cache
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\ZM-1.4.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\ZM-1.4.9.csproj.CoreCompileInputs.cache
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\Title Update 30.exe
+C:\Users\29644\Desktop\BO3 ZM\obj\Debug\net462\Title Update 30.pdb
+E:\bo3\BO3 ZM\bin\Debug\net462\BO3僵尸修改器.exe.config
+E:\bo3\BO3 ZM\bin\Debug\net462\BO3僵尸修改器.exe
+E:\bo3\BO3 ZM\bin\Debug\net462\BO3僵尸修改器.pdb
+E:\bo3\BO3 ZM\obj\Debug\net462\ZM-1.4.9.csproj.AssemblyReference.cache
+E:\bo3\BO3 ZM\obj\Debug\net462\ZM-1.4.9.csproj.SuggestedBindingRedirects.cache
+E:\bo3\BO3 ZM\obj\Debug\net462\TitleUpdate.Properties.Resources.resources
+E:\bo3\BO3 ZM\obj\Debug\net462\zm.Form1.resources
+E:\bo3\BO3 ZM\obj\Debug\net462\ZM-1.4.9.csproj.GenerateResource.cache
+E:\bo3\BO3 ZM\obj\Debug\net462\ZM-1.4.9.GeneratedMSBuildEditorConfig.editorconfig
+E:\bo3\BO3 ZM\obj\Debug\net462\ZM-1.4.9.csproj.CoreCompileInputs.cache
+E:\bo3\BO3 ZM\obj\Debug\net462\BO3僵尸修改器.exe
+E:\bo3\BO3 ZM\obj\Debug\net462\BO3僵尸修改器.pdb
